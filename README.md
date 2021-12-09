@@ -6,10 +6,9 @@ MeuApp é um projeto de aprendizagem ao Framework ReactJS onde o objetivo é mos
 
 - HTML/CSS
 - JavaScript
-- API com Fetch
 - ReactJS
 - Componentes
-- React Hooks com useState para monitorar os dados requisitados por uma API após o clique no botão
+- React Hooks com useState e useRef para monitoramento de estados e ter acesso a referências de um elemento.
 
 ## Layout antes da requisição
 
